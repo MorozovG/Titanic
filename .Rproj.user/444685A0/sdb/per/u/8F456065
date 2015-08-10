@@ -1,0 +1,18 @@
+{
+    "contents" : "ggplot(data = table(data_train$Survived), )",
+    "created" : 1439233476565.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1822594926",
+    "id" : "8F456065",
+    "lastKnownWriteTime" : 578055781,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
