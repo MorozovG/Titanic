@@ -1,0 +1,18 @@
+{
+    "contents" : "---\ntitle: \"Untitled\"\nauthor: \"Морозов Глеб\"\ndate: \"18 августа 2015 г.\"\noutput: html_document\n---\n\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.\n\nWhen you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\n```{r}\nsummary(cars)\n```\n\n| Tables        | Are           | Cool  |\n| ------------- |:-------------:| -----:|\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      | centered      |   $12 |\n| zebra stripes | are neat      |    $1 |\n\nYou can also embed plots, for example:\n\n```{r, echo=FALSE}\nplot(cars)\n```\n\nNote that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n\n|Model|Public Score|\n|:-----:|:--------:|\n|SVM    |0.81340   |\n|Random Forest|0.78947|\n|Logit|0.77512|",
+    "created" : 1439900574684.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "95811206",
+    "id" : "BAFC9E98",
+    "lastKnownWriteTime" : 1439900660,
+    "path" : "G:/R lang/Titanic/1.Rmd",
+    "project_path" : "1.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
